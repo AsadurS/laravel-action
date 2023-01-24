@@ -1,1 +1,1 @@
-pratacing laravel action code
+practicing laravel action code
